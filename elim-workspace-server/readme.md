@@ -582,17 +582,17 @@ src/main/java/com/elimsafety/server
 #### **Core ERD**
 > 회원, 인증, 권한 등 비즈니스 도메인과 분리된 시스템 핵심 영역
 
-![ERD(공통)](/assets/images/architecture/ERD(Core).png)
+![ERD(공통)](./assets/images/architecture/ERD(Core).png)
 
 #### **기계설비 ERD**
 > 기계설비 관련 도메인
 
-![ERD(기계설비)](/assets/images/architecture/ERD(기계설비).png)
+![ERD(기계설비)](./assets/images/architecture/ERD(기계설비).png)
 
 #### **건축(안전진단) ERD**
 > 건축(안전진단) 관련 도메인
 
-![ERD(건축)](/assets/images/architecture/ERD(건축).png)
+![ERD(건축)](./assets/images/architecture/ERD(건축).png)
 
 
 ---
